@@ -1,0 +1,70 @@
+/* 字体设置 */
+
+.ky_hide {display:none;}
+.ky_mb0 {margin-bottom:0;margin-top:0;}
+.ky_mt10 {margin-bottom:0;margin-top:10px;}
+.ky_mb10 {margin-bottom:10px;}
+.ky_mb20 {margin-bottom:20px;}
+.ky_ml100 {margin-left:150px;}
+.ky_pr {padding-right:0;}
+.ky_pl {padding-left:0;}
+.ky_pt_b {padding-top:0;padding-bottom:0;}
+.ky_pl15 {padding-left:15px;}
+.ky_clearPadding {padding:0;}
+.ky_h24 {height:24px;}
+.ky_h26 {height:26px;}
+.ky_hl24 {height:24px;line-height:24px;}
+.ky_h30 {height:30px;line-height:30px;}
+.ky_h40 {height:40px; line-height:40px;}
+.ky_h205 {height:205;}
+.ky_width30 {width:30px;}
+.ky_width50 {width:50px;}
+.ky_width80 {width:80px;}
+.ky_width90 {width:90px;}
+.ky_width100 {width:100px;}
+.ky_width105 {width:105px;}
+.ky_width150 {width:150px;}
+.ky_width180 {width:180px;}
+.ky_width120 {width:120px;}
+.ky_width130 {width:130px;}
+.ky_width160 {width:160px;}
+.ky_width180 {width:180px;}
+.ky_width200 {width:200px;}
+.ky_width220 {width:220px;}
+.ky_width255 {width:255px;}
+.ky_width300 {width:300px;}
+.ky_width350 {width:350px;}
+.ky_fs12 {font-size:12px;font-family: "Micorsoft YaHei","微软雅黑";}
+.ky_lineh {line-height:33px;}
+.ky_center {text-align: center;}
+.ky_radio {line-height:14px;}
+.ky_pushTime {line-height:33px;padding:0 0 0 5px;width:120px;}
+.ky_text_r {text-align: right;}
+/* 选择按钮的右间距 */
+.ky_btns > .btn {margin-right:20px;}
+/* 滚动字幕 ****************************************/
+/* 标题宽高 */
+.ky_title_w {height:40px;}
+.ky_t_control {width:100px;height:30px;line-height:30px;padding-right:0;}
+.ky_tit_text {padding:0;}
+.ky_pos_ctrl {line-height:33px;width:100px;padding-right:0;}
+.ky_p_sel_ctrl {width:80px;padding-left:0;}
+.ky_p_sel_ctrl2 {width:155px;padding-left:0;}
+/* 内容宽高 */
+.ky_content_w {height:40px;}
+.ky_h2 {margin:0;padding-bottom:5px;font-size:18px;font-weight:bold;border-bottom:1px solid #ebebeb;}
+.ky_triggerTime {line-height:33px;width:100px;}
+.ky_isLoop {line-height:33px;width:130px;padding-right:0;}
+.ky_rank {margin:10px 10px 0 0;float:right;}
+.ky_list {display:inline-block; padding:0 20px; height:30px;line-height:30px;font-weight:bold;border-radius:3px;}
+.ky_imPush {display:inline-block; padding:0 10px; height:30px;line-height:30px;background-color:#0072bc;color:#fff;border-radius:3px;cursor:pointer;}
+.ky_del {display:inline-block; padding:0 10px; height:30px;line-height:30px;background-color:red;color:#fff;border-radius:3px;cursor:pointer;margin-left:10px;}
+.ky_cardCtrl {display:inline-block;}
+.ky_bg {background-color:#fff;}
+
+
+
+.ky_ty_box {width:500px;height:200px;margin-right:10px;background-color: red;float:left;}
+
+
+.kj_term { display:inline-block;height:25px;line-height:25px;margin-right:10px; }

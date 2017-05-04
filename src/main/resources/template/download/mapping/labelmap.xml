@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbook>
+	<worksheet name="Sheet1">
+		<loop startRow="1" endRow="1" items="labellists" var="label"
+			varType="com.dmwys.photography.dot.model.KuyunDotLabel">
+			<section startRow="1" endRow="1">
+				<mapping row="1" col="0">label.name</mapping>
+			</section>
+			<loopbreakcondition>
+				<rowcheck offset="0">
+					<cellcheck offset="0"></cellcheck>
+				</rowcheck>
+			</loopbreakcondition>
+		</loop>
+	</worksheet>
+</workbook>

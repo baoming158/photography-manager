@@ -1,0 +1,26 @@
+/* ¥ÌŒÛ“≥√Ê */
+.error_cont { width:600px; margin:70px auto 0; overflow:hidden;}
+.error_bg, .error_type{ background-image:url(../images/error.png); background-repeat:no-repeat; background-position:0 0;}
+.error_bg{ width:150px; height:148px;}
+.err_bg_403{ background-position:0 -462px;}
+.error_txt{ margin-left:180px;}
+.error_txt h2{ overflow:hidden; padding-top:10px;margin-bottom:30px;}
+.error_txt h2 .c_blue{ color:#4dade5;}
+.error_type{ display:block; width:150px; height:66px; float:left;}
+/*.t403{ background-position:0 -158px;}*/
+.t403{ width:87px; height:40px; background-position:0 -386px;}
+.t404{ background-position:0 -234px;}
+.t500{ background-position:0 -310px;}
+
+.error_txt h2 span{ float:left; display:block; padding:25px 0 0 24px;
+	 color:#666; font-size:24px; font-weight:normal; font-family:"Microsoft YaHei", "Œ¢»Ì—≈∫⁄";
+}
+.error_txt h2 .txt403{padding:0 0 0 10px;}
+.error_info{ margin:0 0 0 10px; color:#666;}
+.error_info p a{ margin-right:20px; color:#666; font-size:14px;}
+.error_info p a:hover{ text-decoration:underline;}
+.error_info h3{ margin:30px 0 15px; font-size:18px; color:#373737;  font-weight:normal; font-family:"Microsoft YaHei", "Œ¢»Ì—≈∫⁄";}
+.error_info ul{ margin-left:20px; line-height:1.8;}
+.error_info ul li{ list-style:decimal;}
+.e_s{ font-size:14px;}
+.e_s span{ color:#F00; font-size:20px;}
